@@ -1,3 +1,9 @@
+## [1.0.3](https://github.com/rvagg/js-fhex/compare/v1.0.2...v1.0.3) (2026-04-30)
+
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 6.3.0 to 6.4.0 ([#3](https://github.com/rvagg/js-fhex/issues/3)) ([cadd886](https://github.com/rvagg/js-fhex/commit/cadd886f91c717f9385170593f459d15894e7c80))
+
 ## [1.0.2](https://github.com/rvagg/js-fhex/compare/v1.0.1...v1.0.2) (2026-04-28)
 
 ### Trivial Changes

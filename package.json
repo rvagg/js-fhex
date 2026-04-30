@@ -1,6 +1,6 @@
 {
   "name": "fhex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Hex float conversion: toHex for formatting, fromHex for parsing. IEEE 754 hexadecimal format (0x1.8p+1).",
   "main": "fhex.js",
   "type": "module",
