@@ -1,3 +1,9 @@
+## [1.0.6](https://github.com/rvagg/js-fhex/compare/v1.0.5...v1.0.6) (2026-06-23)
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 6.0.3 to 7.0.0 ([#6](https://github.com/rvagg/js-fhex/issues/6)) ([e1c46ef](https://github.com/rvagg/js-fhex/commit/e1c46ef088aec164f0a3dac39290379eb91f5a11))
+
 ## [1.0.5](https://github.com/rvagg/js-fhex/compare/v1.0.4...v1.0.5) (2026-06-22)
 
 ### Trivial Changes
