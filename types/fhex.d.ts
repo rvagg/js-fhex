@@ -1,4 +1,18 @@
 /**
+ * Hex float conversion for JavaScript.
+ *
+ * Provides four functions:
+ * - {@link toHex} for formatting floats as hex strings (`0x1.8p+1`)
+ * - {@link fromHex} for parsing hex strings back to floats
+ * - {@link toHexBits} for inspecting raw IEEE 754 bit patterns
+ * - {@link fromHexBits} for constructing floats from raw bit patterns
+ *
+ * The format follows the IEEE 754 hex float specification — the same format
+ * used by C's `%a` printf specifier and Java's `Double.toHexString()`.
+ *
+ * @module fhex
+ */
+/**
  * Convert a number to an IEEE 754 hex float string.
  *
  * Handles all IEEE 754 double-precision values including signed zeros,
@@ -7,7 +21,7 @@
  * @param {number} n
  * @returns {string}
  */
-export function toHex(n: number): string;
+export declare function toHex(n: number): string;
 /**
  * Parse an IEEE 754 hex float string to a number.
  *
@@ -25,7 +39,7 @@ export function toHex(n: number): string;
  * @param {string} str
  * @returns {number | null}
  */
-export function fromHex(str: string): number | null;
+export declare function fromHex(str: string): number | null;
 /**
  * Get the raw IEEE 754 bit pattern of a number as a hex string.
  *
@@ -36,7 +50,7 @@ export function fromHex(str: string): number | null;
  * @param {number} n
  * @returns {string} 16-character hex string (no `0x` prefix)
  */
-export function toHexBits(n: number): string;
+export declare function toHexBits(n: number): string;
 /**
  * Construct a number from a raw IEEE 754 bit pattern hex string.
  *
@@ -46,5 +60,5 @@ export function toHexBits(n: number): string;
  * @param {string} s - 16-character hex string, optionally prefixed with `0x`
  * @returns {number | null}
  */
-export function fromHexBits(s: string): number | null;
+export declare function fromHexBits(s: string): number | null;
 //# sourceMappingURL=fhex.d.ts.map
