@@ -1,12 +1,33 @@
 ## [1.0.11](https://github.com/rvagg/js-fhex/compare/v1.0.10...v1.0.11) (2026-07-29)
 
+### Trivial Changes
+
+* **deps-dev:** bump typescript from 6.0.3 to 7.0.2 ([eff8174](https://github.com/rvagg/js-fhex/commit/eff8174bd026401cc5531f55bf2810ee2e9c19d9))
+* fixes for ts@7 ([3f79085](https://github.com/rvagg/js-fhex/commit/3f79085f02dbbf43e4c871f0c21e162fc5877d8c))
+
 ## [1.0.10](https://github.com/rvagg/js-fhex/compare/v1.0.9...v1.0.10) (2026-07-29)
+
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#12](https://github.com/rvagg/js-fhex/issues/12)) ([b76bb45](https://github.com/rvagg/js-fhex/commit/b76bb4584336e7939ca57dccf8f6f14614990249))
 
 ## [1.0.9](https://github.com/rvagg/js-fhex/compare/v1.0.8...v1.0.9) (2026-07-22)
 
+### Trivial Changes
+
+* **ci:** slow down dependabot, add depsound, pin action hashes ([#11](https://github.com/rvagg/js-fhex/issues/11)) ([78a9584](https://github.com/rvagg/js-fhex/commit/78a9584f18722d4241dc7919be7fcc072aa61af4))
+
 ## [1.0.8](https://github.com/rvagg/js-fhex/compare/v1.0.7...v1.0.8) (2026-07-20)
 
+### Trivial Changes
+
+* **deps:** bump actions/setup-node from 6.4.0 to 7.0.0 ([#9](https://github.com/rvagg/js-fhex/issues/9)) ([cf582af](https://github.com/rvagg/js-fhex/commit/cf582af261d7b4c1efa0b1d294fbf55dfecec1be))
+
 ## [1.0.7](https://github.com/rvagg/js-fhex/compare/v1.0.6...v1.0.7) (2026-07-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump conventional-changelog-conventionalcommits ([#7](https://github.com/rvagg/js-fhex/issues/7)) ([ab1a3cc](https://github.com/rvagg/js-fhex/commit/ab1a3cc96c22983d5aa272449b781a74644ab320))
 
 ## [1.0.6](https://github.com/rvagg/js-fhex/compare/v1.0.5...v1.0.6) (2026-06-23)
 
