@@ -1,3 +1,9 @@
+## [1.0.12](https://github.com/rvagg/js-fhex/compare/v1.0.11...v1.0.12) (2026-07-30)
+
+### Trivial Changes
+
+* downgrade broken changelog maker, backfill entries ([#13](https://github.com/rvagg/js-fhex/issues/13)) ([5bb9a75](https://github.com/rvagg/js-fhex/commit/5bb9a75c3c9095a94ad5fc81491e64c2f8f84968))
+
 ## [1.0.11](https://github.com/rvagg/js-fhex/compare/v1.0.10...v1.0.11) (2026-07-29)
 
 ### Trivial Changes
