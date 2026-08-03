@@ -1,3 +1,9 @@
+## [1.0.14](https://github.com/rvagg/js-fhex/compare/v1.0.13...v1.0.14) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/git from 10.0.1 to 11.0.1 ([#14](https://github.com/rvagg/js-fhex/issues/14)) ([a277650](https://github.com/rvagg/js-fhex/commit/a27765082aad46aa500ddc6dd7deece887e9238d))
+
 ## [1.0.13](https://github.com/rvagg/js-fhex/compare/v1.0.12...v1.0.13) (2026-08-03)
 
 ### Trivial Changes
