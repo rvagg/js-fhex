@@ -1,3 +1,9 @@
+## [1.0.15](https://github.com/rvagg/js-fhex/compare/v1.0.14...v1.0.15) (2026-08-03)
+
+### Trivial Changes
+
+* **deps:** bump the github-actions-minor-patch group with 2 updates ([#17](https://github.com/rvagg/js-fhex/issues/17)) ([c05dc5d](https://github.com/rvagg/js-fhex/commit/c05dc5d109c6cf2d5d94dab955fceeab4dd2dff4))
+
 ## [1.0.14](https://github.com/rvagg/js-fhex/compare/v1.0.13...v1.0.14) (2026-08-03)
 
 ### Trivial Changes
