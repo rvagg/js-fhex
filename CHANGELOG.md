@@ -1,3 +1,9 @@
+## [1.0.13](https://github.com/rvagg/js-fhex/compare/v1.0.12...v1.0.13) (2026-08-03)
+
+### Trivial Changes
+
+* **deps-dev:** bump @semantic-release/changelog from 6.0.3 to 7.0.0 ([#15](https://github.com/rvagg/js-fhex/issues/15)) ([3561d42](https://github.com/rvagg/js-fhex/commit/3561d42518cde9a177a93ffef9ec99d75d8fd974))
+
 ## [1.0.12](https://github.com/rvagg/js-fhex/compare/v1.0.11...v1.0.12) (2026-07-30)
 
 ### Trivial Changes
