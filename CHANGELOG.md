@@ -1,3 +1,9 @@
+## [1.0.16](https://github.com/rvagg/js-fhex/compare/v1.0.15...v1.0.16) (2026-10-02)
+
+### Trivial Changes
+
+* **deps-dev:** bump mocha from 11.8.0 to 12.0.2 ([#19](https://github.com/rvagg/js-fhex/issues/19)) ([e071499](https://github.com/rvagg/js-fhex/commit/e0714999a7e5a8de5b2e0d17b21010c4b0fac618))
+
 ## [1.0.15](https://github.com/rvagg/js-fhex/compare/v1.0.14...v1.0.15) (2026-08-03)
 
 ### Trivial Changes
